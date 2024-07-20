@@ -70,7 +70,7 @@ This app is designed to assist caregivers and individuals in early detection of 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/dementia-care-app.git
+    git clone https://github.com/your-username/we_care.git
     cd we_care
     ```
 
