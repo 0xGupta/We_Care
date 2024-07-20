@@ -43,7 +43,7 @@ This app is designed to assist caregivers and individuals in early detection of 
 ## Demo / Samples
 
 #### Home Page
-<img src="images/home.jpg" alt="Home Screen" width="600">
+<img src="images/home.jpg" alt="Home Screen" width="300">
 
 #### Login Page
 <img src="images/login.jpg" alt="Home Screen" width="300">
