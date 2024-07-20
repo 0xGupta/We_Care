@@ -42,12 +42,18 @@ This app is designed to assist caregivers and individuals in early detection of 
 
 ## Demo / Samples
 
-![Home Screen](images/home.jpg)
-![Login Screen](images/login.jpg)
-![Signup Screen](images/signup.png)
-![Dashboard](images/dashboard.jpg)
-![Early Detection Screen](images/early_detect.jpg)
-![Suggest DoctorsScreen](images/list_doc.jpg)
+![Home Screen]
+<img src="images/home_screen.png" alt="Home Screen" width="600">
+![Login Screen]
+<img src="images/login.jpg" alt="Home Screen" width="600">
+![Signup Screen]
+<img src="images/signup.png" alt="Home Screen" width="600">
+![Dashboard]
+<img src="images/dashboard.jpg" alt="Home Screen" width="600">
+![Early Detection Screen]
+<img src="images/early_detect.jpg" alt="Home Screen" width="600">
+![Suggest DoctorsScreen]
+<img src="images/list_doc.jpg" alt="Home Screen" width="600">
 
 ## Setup Instructions
 
