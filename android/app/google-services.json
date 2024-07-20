@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665117309588",
+    "project_id": "hack-team-grey-matter-gurus",
+    "storage_bucket": "hack-team-grey-matter-gurus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665117309588:android:1dc6c8418887c828b99281",
+        "android_client_info": {
+          "package_name": "com.example.we_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLdqoTitE57Bam3ORLu5z3hkRX3_iYe3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
