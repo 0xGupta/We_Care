@@ -40,6 +40,15 @@ This app is designed to assist caregivers and individuals in early detection of 
 - **Caregivers:** Individuals who provide care for dementia patients and need tools to monitor and manage their health.
 - **Patients:** Individuals at risk of or diagnosed with dementia who need to track their symptoms and access resources.
 
+## Demo / Samples
+
+![Home Screen](images/home.jpg)
+![Login Screen](images/login.jpg)
+![Signup Screen](images/signup.png)
+![Dashboard](images/dashboard.jpg)
+![Early Detection Screen](images/early_detect.jpg)
+![Suggest DoctorsScreen](images/list_doc.jpg)
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -51,7 +60,7 @@ This app is designed to assist caregivers and individuals in early detection of 
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/your-username/dementia-care-app.git
-    cd dementia-care-app
+    cd we_care
     ```
 
 2. **Install dependencies:**
